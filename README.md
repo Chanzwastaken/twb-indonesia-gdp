@@ -5,6 +5,9 @@
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green.svg)](https://pandas.pydata.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+<img width="999" height="800" alt="image" src="https://github.com/user-attachments/assets/7cc3e78f-4912-4538-9704-f8f83eab9308" />
+
+
 > A comprehensive data engineering project analyzing Indonesia's provincial GDP distribution through web scraping, data processing, and interactive visualization.
 
 **🎯 Part of DataSeriesFair 4.0 Challenge by [Dibimbing.id](https://dibimbing.id)**
